@@ -30,3 +30,6 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+*.swp
+cmd/genkey/sample.d/.secret
+cmd/genkey/genkey
